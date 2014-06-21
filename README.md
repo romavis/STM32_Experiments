@@ -11,4 +11,4 @@ In this repo you can find:
 4. STM32F4 crt0-like startup code and linker script to run C program without libc.
 
 
-Licensed under LGPL v2
+Licensed under LGPL v2.1
